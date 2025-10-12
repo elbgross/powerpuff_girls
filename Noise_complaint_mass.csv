@@ -1,0 +1,2441 @@
+Location Type,City,Borough,num_calls
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,160
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,211
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,271
+Club/Bar/Restaurant,ELMHURST,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,43
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,SOUTH RICHMOND HILL,QUEENS,46
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,1175
+Club/Bar/Restaurant,BRONX,BRONX,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,458
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,58
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,128
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,42
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,72
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,42
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,127
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,52
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,ROSEDALE,QUEENS,39
+Club/Bar/Restaurant,BRONX,BRONX,57
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,43
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,43
+Club/Bar/Restaurant,ASTORIA,QUEENS,31
+Club/Bar/Restaurant,BRONX,BRONX,23
+Club/Bar/Restaurant,BRONX,BRONX,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,63
+Club/Bar/Restaurant,LITTLE NECK,QUEENS,85
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,JAMAICA,QUEENS,152
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,231
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,79
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,62
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,37
+Club/Bar/Restaurant,JAMAICA,QUEENS,106
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,70
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,302
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,90
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,89
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,80
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,118
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,217
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,93
+Club/Bar/Restaurant,FAR ROCKAWAY,QUEENS,106
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,117
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,98
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,148
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,127
+Club/Bar/Restaurant,BRONX,BRONX,65
+Club/Bar/Restaurant,ASTORIA,QUEENS,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,93
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,143
+Club/Bar/Restaurant,ASTORIA,QUEENS,267
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,64
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,70
+Club/Bar/Restaurant,WOODSIDE,QUEENS,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,85
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,55
+Club/Bar/Restaurant,SOUTH OZONE PARK,QUEENS,95
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,183
+Club/Bar/Restaurant,EAST ELMHURST,QUEENS,59
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,87
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,60
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,48
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,141
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,63
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,57
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,76
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,114
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,194
+Club/Bar/Restaurant,ASTORIA,QUEENS,82
+Club/Bar/Restaurant,ASTORIA,QUEENS,87
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,66
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,49
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,184
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,108
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,287
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,55
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,120
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,62
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,301
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,186
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,75
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,183
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,70
+Club/Bar/Restaurant,ASTORIA,QUEENS,42
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,126
+Club/Bar/Restaurant,FLUSHING,QUEENS,16
+Club/Bar/Restaurant,HOWARD BEACH,QUEENS,399
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,OZONE PARK,QUEENS,32
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,42
+Club/Bar/Restaurant,BRONX,BRONX,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,102
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,129
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,FLUSHING,QUEENS,15
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,57
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,92
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,1513
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,91
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,120
+Club/Bar/Restaurant,BRONX,BRONX,76
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,65
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,GLEN OAKS,QUEENS,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,24
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,53
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,152
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,57
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,73
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,ASTORIA,QUEENS,29
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,50
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,78
+Club/Bar/Restaurant,JAMAICA,QUEENS,388
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,87
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,ASTORIA,QUEENS,112
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,117
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,55
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,68
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,146
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,109
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,99
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,57
+Club/Bar/Restaurant,REGO PARK,QUEENS,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,162
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,ASTORIA,QUEENS,52
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,91
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,642
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,74
+Club/Bar/Restaurant,JAMAICA,QUEENS,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,110
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,88
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,35
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,67
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,65
+Club/Bar/Restaurant,JAMAICA,QUEENS,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,106
+Club/Bar/Restaurant,ELMHURST,QUEENS,83
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,54
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,151
+Club/Bar/Restaurant,BRONX,BRONX,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,60
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,WOODSIDE,QUEENS,32
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,74
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,55
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,43
+Club/Bar/Restaurant,ELMHURST,QUEENS,65
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,65
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,98
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,ASTORIA,QUEENS,177
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,51
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,HOLLIS,QUEENS,161
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,244
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,ROCKAWAY PARK,QUEENS,44
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,83
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,35
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,121
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,33
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,99
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,202
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,47
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,55
+Club/Bar/Restaurant,BRONX,BRONX,190
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,ASTORIA,QUEENS,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,HOLLIS,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,WOODSIDE,QUEENS,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,62
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,37
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,147
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,OZONE PARK,QUEENS,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,51
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,39
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,86
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,55
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,ASTORIA,QUEENS,282
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,43
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,95
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,53
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,50
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,144
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,184
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,41
+Club/Bar/Restaurant,BRONX,BRONX,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,102
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,ASTORIA,QUEENS,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,66
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,ASTORIA,QUEENS,289
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,130
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,49
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,53
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,54
+Club/Bar/Restaurant,ASTORIA,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,BRONX,BRONX,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,68
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,72
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,MASPETH,QUEENS,21
+Club/Bar/Restaurant,ASTORIA,QUEENS,19
+Club/Bar/Restaurant,ASTORIA,QUEENS,52
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,42
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,18
+Club/Bar/Restaurant,ASTORIA,QUEENS,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,57
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BRONX,BRONX,161
+Club/Bar/Restaurant,BRONX,BRONX,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,82
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,EAST ELMHURST,QUEENS,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,100
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,55
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,257
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,91
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,70
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,BRONX,BRONX,107
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,62
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,47
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,37
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,33
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,85
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,196
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,55
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,MASPETH,QUEENS,93
+Club/Bar/Restaurant,ASTORIA,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,46
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,167
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,76
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,47
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,250
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,39
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,49
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,61
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,42
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,MASPETH,QUEENS,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,76
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,98
+Club/Bar/Restaurant,BELLEROSE,QUEENS,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,53
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,FAR ROCKAWAY,QUEENS,28
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,58
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,WOODSIDE,QUEENS,59
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,33
+Club/Bar/Restaurant,BRONX,BRONX,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,355
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,80
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,91
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,FLUSHING,QUEENS,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,ASTORIA,QUEENS,57
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,ASTORIA,QUEENS,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,95
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,ASTORIA,QUEENS,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,WOODHAVEN,QUEENS,90
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,70
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,KEW GARDENS,QUEENS,393
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,91
+Club/Bar/Restaurant,ASTORIA,QUEENS,44
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,75
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,ASTORIA,QUEENS,27
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,WOODHAVEN,QUEENS,140
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,86
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,78
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,69
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,198
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,57
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,35
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,125
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,319
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,63
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,43
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,56
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,55
+Club/Bar/Restaurant,WOODSIDE,QUEENS,43
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,133
+Club/Bar/Restaurant,WOODSIDE,QUEENS,52
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,205
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,50
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,55
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,120
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,114
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,86
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,96
+Club/Bar/Restaurant,EAST ELMHURST,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,70
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,728
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,228
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,59
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,54
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,59
+Club/Bar/Restaurant,OZONE PARK,QUEENS,60
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,26
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,50
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,81
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,60
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,63
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,34
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,61
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,185
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,REGO PARK,QUEENS,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,70
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,WOODSIDE,QUEENS,72
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,68
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,ASTORIA,QUEENS,30
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,47
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,106
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,OZONE PARK,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,35
+Club/Bar/Restaurant,BRONX,BRONX,15
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,39
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,45
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,46
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,51
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,BRONX,BRONX,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,93
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,70
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,18
+Club/Bar/Restaurant,BRONX,BRONX,56
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,103
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,JAMAICA,QUEENS,26
+Club/Bar/Restaurant,BRONX,BRONX,49
+Club/Bar/Restaurant,BRONX,BRONX,50
+Club/Bar/Restaurant,CORONA,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,132
+Club/Bar/Restaurant,ASTORIA,QUEENS,120
+Club/Bar/Restaurant,FLUSHING,QUEENS,46
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,81
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,286
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,70
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,70
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,GLEN OAKS,QUEENS,21
+Club/Bar/Restaurant,ASTORIA,QUEENS,64
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,KEW GARDENS,QUEENS,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,68
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BRONX,BRONX,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,37
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,87
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,JAMAICA,QUEENS,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,179
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,98
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,BRONX,BRONX,54
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,46
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,199
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,61
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,64
+Club/Bar/Restaurant,BRONX,BRONX,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,43
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,39
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,32
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,109
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,ASTORIA,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,20
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,12
+Club/Bar/Restaurant,JAMAICA,QUEENS,75
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,BRONX,BRONX,19
+Club/Bar/Restaurant,JAMAICA,QUEENS,62
+Club/Bar/Restaurant,ROSEDALE,QUEENS,18
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,36
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,51
+Club/Bar/Restaurant,WOODSIDE,QUEENS,96
+Club/Bar/Restaurant,BRONX,BRONX,31
+Club/Bar/Restaurant,BRONX,BRONX,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,79
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,88
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,72
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,JAMAICA,QUEENS,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,64
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,143
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,65
+Club/Bar/Restaurant,SOUTH RICHMOND HILL,QUEENS,99
+Club/Bar/Restaurant,ASTORIA,QUEENS,73
+Club/Bar/Restaurant,KEW GARDENS,QUEENS,19
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,140
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,119
+Club/Bar/Restaurant,BRONX,BRONX,34
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,103
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,100
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,67
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,ASTORIA,QUEENS,49
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,ASTORIA,QUEENS,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,ASTORIA,QUEENS,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,ASTORIA,QUEENS,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,47
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,WOODSIDE,QUEENS,14
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,69
+Club/Bar/Restaurant,ASTORIA,QUEENS,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,SOUTH RICHMOND HILL,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,34
+Club/Bar/Restaurant,ROCKAWAY PARK,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,ASTORIA,QUEENS,13
+Club/Bar/Restaurant,WOODSIDE,QUEENS,33
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,SOUTH RICHMOND HILL,QUEENS,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BRONX,BRONX,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,68
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,88
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,142
+Club/Bar/Restaurant,ASTORIA,QUEENS,27
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,49
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,43
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,60
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,45
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,ASTORIA,QUEENS,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,51
+Club/Bar/Restaurant,ASTORIA,QUEENS,51
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,161
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,73
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,SOUTH RICHMOND HILL,QUEENS,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,COLLEGE POINT,QUEENS,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,69
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,464
+Club/Bar/Restaurant,BRONX,BRONX,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,208
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,71
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,COLLEGE POINT,QUEENS,29
+Club/Bar/Restaurant,ASTORIA,QUEENS,27
+Club/Bar/Restaurant,JAMAICA,QUEENS,140
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,162
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,57
+Club/Bar/Restaurant,ASTORIA,QUEENS,23
+Club/Bar/Restaurant,BAYSIDE,QUEENS,12
+Club/Bar/Restaurant,JAMAICA,QUEENS,10
+Club/Bar/Restaurant,JAMAICA,QUEENS,41
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,16
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,166
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,51
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,BRONX,BRONX,73
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BRONX,BRONX,58
+Club/Bar/Restaurant,ASTORIA,QUEENS,70
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,69
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,180
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,61
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,35
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,ASTORIA,QUEENS,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,59
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,87
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,16
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,41
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,86
+Club/Bar/Restaurant,BRONX,BRONX,22
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,133
+Club/Bar/Restaurant,OZONE PARK,QUEENS,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,CORONA,QUEENS,26
+Club/Bar/Restaurant,BRONX,BRONX,27
+Club/Bar/Restaurant,ASTORIA,QUEENS,33
+Club/Bar/Restaurant,ASTORIA,QUEENS,39
+Club/Bar/Restaurant,HOLLIS,QUEENS,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,GLEN OAKS,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,61
+Club/Bar/Restaurant,WHITESTONE,QUEENS,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,61
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,41
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,50
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,ASTORIA,QUEENS,36
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,ASTORIA,QUEENS,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,HOLLIS,QUEENS,35
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,MASPETH,QUEENS,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,97
+Club/Bar/Restaurant,WOODSIDE,QUEENS,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,ASTORIA,QUEENS,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,54
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,217
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,69
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,53
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,90
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,56
+Club/Bar/Restaurant,OZONE PARK,QUEENS,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,72
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,MASPETH,QUEENS,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,35
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,29
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,31
+Club/Bar/Restaurant,ASTORIA,QUEENS,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,71
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,105
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,ASTORIA,QUEENS,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,SAINT ALBANS,QUEENS,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,50
+Club/Bar/Restaurant,HOLLIS,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,110
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,75
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BRONX,BRONX,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,39
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,ASTORIA,QUEENS,339
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,ASTORIA,QUEENS,123
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,49
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,81
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,71
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,MASPETH,QUEENS,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,36
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,51
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,47
+Club/Bar/Restaurant,ASTORIA,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,OZONE PARK,QUEENS,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,106
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,WOODSIDE,QUEENS,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,61
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,94
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,166
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,111
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,49
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,42
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,ASTORIA,QUEENS,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,35
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,46
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BRONX,BRONX,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,SOUTH OZONE PARK,QUEENS,21
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,12
+Club/Bar/Restaurant,BRONX,BRONX,37
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,CORONA,QUEENS,12
+Club/Bar/Restaurant,BRONX,BRONX,48
+Club/Bar/Restaurant,JAMAICA,QUEENS,59
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,76
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,OZONE PARK,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,80
+Club/Bar/Restaurant,ASTORIA,QUEENS,172
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,80
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,27
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,WOODSIDE,QUEENS,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,83
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,SOUTH OZONE PARK,QUEENS,10
+Club/Bar/Restaurant,SAINT ALBANS,QUEENS,23
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,104
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,88
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BRONX,BRONX,36
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,35
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,CORONA,QUEENS,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,110
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,WOODHAVEN,QUEENS,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,64
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,245
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,103
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,ASTORIA,QUEENS,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,77
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,171
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BRONX,BRONX,19
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,72
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,36
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,39
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,58
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,87
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BRONX,BRONX,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,93
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,26
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,209
+Club/Bar/Restaurant,ASTORIA,QUEENS,17
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,39
+Club/Bar/Restaurant,BRONX,BRONX,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BRONX,BRONX,54
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BRONX,BRONX,36
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,223
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,ASTORIA,QUEENS,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BRONX,BRONX,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,46
+Club/Bar/Restaurant,BRONX,BRONX,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,ASTORIA,QUEENS,24
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,JAMAICA,QUEENS,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,ELMHURST,QUEENS,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,55
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,116
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,62
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,56
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,60
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,17
+Club/Bar/Restaurant,HOLLIS,QUEENS,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,52
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,WOODSIDE,QUEENS,17
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,33
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,45
+Club/Bar/Restaurant,BAYSIDE,QUEENS,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,HOWARD BEACH,QUEENS,95
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,74
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,39
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,54
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,22
+Club/Bar/Restaurant,ASTORIA,QUEENS,11
+Club/Bar/Restaurant,JAMAICA,QUEENS,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,34
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,68
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,59
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,29
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,65
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,60
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,12
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,56
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,33
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,10
+Club/Bar/Restaurant,WOODSIDE,QUEENS,22
+Club/Bar/Restaurant,KEW GARDENS,QUEENS,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,72
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,BRONX,BRONX,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,WOODSIDE,QUEENS,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,127
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BRONX,BRONX,50
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BRONX,BRONX,30
+Club/Bar/Restaurant,BRONX,BRONX,26
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,45
+Club/Bar/Restaurant,BRONX,BRONX,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,77
+Club/Bar/Restaurant,KEW GARDENS,QUEENS,29
+Club/Bar/Restaurant,ASTORIA,QUEENS,13
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,11
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,48
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,JAMAICA,QUEENS,12
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,50
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,143
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,ASTORIA,QUEENS,32
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,70
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,SOUTH OZONE PARK,QUEENS,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,35
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,47
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,89
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,41
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,168
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,181
+Club/Bar/Restaurant,BRONX,BRONX,59
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BRONX,BRONX,43
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,11
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,51
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,154
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,50
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,34
+Club/Bar/Restaurant,ASTORIA,QUEENS,96
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,ASTORIA,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,EAST ELMHURST,QUEENS,11
+Club/Bar/Restaurant,BRONX,BRONX,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,ASTORIA,QUEENS,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,51
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,ASTORIA,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,WOODSIDE,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,BRONX,BRONX,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,43
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BAYSIDE,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,41
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,37
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,36
+Club/Bar/Restaurant,SOUTH OZONE PARK,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,ASTORIA,QUEENS,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,86
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,KEW GARDENS,QUEENS,11
+Club/Bar/Restaurant,OZONE PARK,QUEENS,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,75
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,48
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,52
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,SOUTH RICHMOND HILL,QUEENS,52
+Club/Bar/Restaurant,BRONX,BRONX,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,ASTORIA,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,58
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,BAYSIDE,QUEENS,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,53
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,51
+Club/Bar/Restaurant,BRONX,BRONX,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,WHITESTONE,QUEENS,28
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,55
+Club/Bar/Restaurant,BRONX,BRONX,18
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,39
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,BRONX,BRONX,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,54
+Club/Bar/Restaurant,ASTORIA,QUEENS,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,122
+Club/Bar/Restaurant,SOUTH OZONE PARK,QUEENS,41
+Club/Bar/Restaurant,ASTORIA,QUEENS,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,46
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,39
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,SOUTH OZONE PARK,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,JAMAICA,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,15
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,BRONX,BRONX,26
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,WOODSIDE,QUEENS,121
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,ELMHURST,QUEENS,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,112
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,84
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,129
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,60
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,196
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,129
+Club/Bar/Restaurant,FLUSHING,QUEENS,47
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,18
+Club/Bar/Restaurant,BRONX,BRONX,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,ASTORIA,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,70
+Club/Bar/Restaurant,WOODSIDE,QUEENS,47
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,ASTORIA,QUEENS,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,46
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,WOODSIDE,QUEENS,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,33
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,81
+Club/Bar/Restaurant,CORONA,QUEENS,17
+Club/Bar/Restaurant,OZONE PARK,QUEENS,26
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,37
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,63
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,135
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,CORONA,QUEENS,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,68
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,ASTORIA,QUEENS,136
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,110
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,65
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,73
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,43
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,45
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,39
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BRONX,BRONX,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,24
+Club/Bar/Restaurant,EAST ELMHURST,QUEENS,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,49
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,ROCKAWAY PARK,QUEENS,130
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,ASTORIA,QUEENS,11
+Club/Bar/Restaurant,ROCKAWAY PARK,QUEENS,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BAYSIDE,QUEENS,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,FAR ROCKAWAY,QUEENS,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BRONX,BRONX,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,ROCKAWAY PARK,QUEENS,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,82
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,46
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,59
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,31
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,64
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,61
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,40
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,192
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,80
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,63
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BRONX,BRONX,152
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,145
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,148
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,143
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,56
+Club/Bar/Restaurant,BRONX,BRONX,56
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BRONX,BRONX,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,35
+Club/Bar/Restaurant,BRONX,BRONX,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,63
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,48
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,27
+Club/Bar/Restaurant,BRONX,BRONX,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,57
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,49
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,77
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,64
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,128
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,94
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,42
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,36
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,55
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,BRONX,BRONX,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,ASTORIA,QUEENS,43
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,63
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,FLUSHING,QUEENS,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,52
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,47
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,28
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,65
+Club/Bar/Restaurant,MASPETH,QUEENS,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,35
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,68
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,41
+Club/Bar/Restaurant,BAYSIDE,QUEENS,21
+Club/Bar/Restaurant,FAR ROCKAWAY,QUEENS,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,63
+Club/Bar/Restaurant,BRONX,BRONX,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,15
+Club/Bar/Restaurant,CORONA,QUEENS,29
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,30
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,ELMHURST,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,51
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,CAMBRIA HEIGHTS,QUEENS,17
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,42
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,FLUSHING,QUEENS,11
+Club/Bar/Restaurant,ASTORIA,QUEENS,13
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,69
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,10
+Club/Bar/Restaurant,BRONX,BRONX,11
+Club/Bar/Restaurant,BROOKLYN,Unspecified,12
+Club/Bar/Restaurant,NEW YORK,Unspecified,14
+Club/Bar/Restaurant,RIDGEWOOD,Unspecified,133
+Club/Bar/Restaurant,CAMBRIA HEIGHTS,Unspecified,17
+Club/Bar/Restaurant,NEW YORK,Unspecified,80
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,ASTORIA,QUEENS,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,11
+Club/Bar/Restaurant,BRONX,BRONX,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,MASPETH,QUEENS,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,102
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,ASTORIA,QUEENS,17
+Club/Bar/Restaurant,BRONX,BRONX,20
+Club/Bar/Restaurant,ASTORIA,QUEENS,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,98
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,QUEENS VILLAGE,QUEENS,34
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BRONX,BRONX,70
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,11
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,43
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,48
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,CORONA,QUEENS,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,161
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,57
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,111
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,ASTORIA,QUEENS,43
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,BRONX,BRONX,19
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,ASTORIA,QUEENS,115
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,39
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,205
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,39
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,88
+Club/Bar/Restaurant,WOODSIDE,QUEENS,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,67
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,CORONA,QUEENS,25
+Club/Bar/Restaurant,BRONX,BRONX,68
+Club/Bar/Restaurant,COLLEGE POINT,QUEENS,34
+Club/Bar/Restaurant,ASTORIA,QUEENS,27
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,12
+Club/Bar/Restaurant,ASTORIA,QUEENS,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BRONX,BRONX,96
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,26
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,OZONE PARK,QUEENS,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,47
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,26
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,ASTORIA,QUEENS,17
+Club/Bar/Restaurant,ASTORIA,QUEENS,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,53
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,CORONA,QUEENS,31
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,31
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,39
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,30
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,61
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,85
+Club/Bar/Restaurant,ASTORIA,QUEENS,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,55
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,68
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,ASTORIA,QUEENS,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,29
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BRONX,BRONX,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,128
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,35
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BRONX,BRONX,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,37
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BRONX,BRONX,32
+Club/Bar/Restaurant,SOUTH OZONE PARK,QUEENS,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,ASTORIA,QUEENS,40
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,38
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,73
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,59
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,44
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,FLUSHING,QUEENS,16
+Club/Bar/Restaurant,BRONX,BRONX,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BRONX,BRONX,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,KEW GARDENS,QUEENS,12
+Club/Bar/Restaurant,BRONX,BRONX,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,56
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,25
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,RICHMOND HILL,QUEENS,19
+Club/Bar/Restaurant,FOREST HILLS,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,28
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,41
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,JAMAICA,QUEENS,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,64
+Club/Bar/Restaurant,JAMAICA,QUEENS,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,24
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,13
+Club/Bar/Restaurant,WOODHAVEN,QUEENS,24
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,LONG ISLAND CITY,QUEENS,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,34
+Club/Bar/Restaurant,BRONX,BRONX,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,20
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BRONX,BRONX,14
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,38
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,34
+Club/Bar/Restaurant,BRONX,BRONX,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,52
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,23
+Club/Bar/Restaurant,JACKSON HEIGHTS,QUEENS,35
+Club/Bar/Restaurant,ASTORIA,QUEENS,43
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,23
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,37
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,31
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,ASTORIA,QUEENS,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,32
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,16
+Club/Bar/Restaurant,RIDGEWOOD,QUEENS,10
+Club/Bar/Restaurant,BRONX,BRONX,15
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BRONX,BRONX,17
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,14
+Club/Bar/Restaurant,BRONX,BRONX,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,21
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,18
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,89
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,LITTLE NECK,QUEENS,13
+Club/Bar/Restaurant,CORONA,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,BRONX,BRONX,18
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,30
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,27
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,24
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,ELMHURST,QUEENS,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,74
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,24
+Club/Bar/Restaurant,ASTORIA,QUEENS,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,OZONE PARK,QUEENS,13
+Club/Bar/Restaurant,ELMHURST,QUEENS,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,12
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,114
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,33
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,25
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,45
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,26
+Club/Bar/Restaurant,BRONX,BRONX,16
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,19
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,10
+Club/Bar/Restaurant,BRONX,BRONX,10
+Club/Bar/Restaurant,ASTORIA,QUEENS,15
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BRONX,BRONX,21
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,13
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,14
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,114
+Club/Bar/Restaurant,JAMAICA,QUEENS,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,22
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,11
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,10
+Club/Bar/Restaurant,BROOKLYN,BROOKLYN,16
+Club/Bar/Restaurant,SUNNYSIDE,QUEENS,17
+Club/Bar/Restaurant,NEW YORK,MANHATTAN,17
+Club/Bar/Restaurant,STATEN ISLAND,STATEN ISLAND,11
+Club/Bar/Restaurant,HOLLIS,QUEENS,11
