@@ -1,5 +1,9 @@
 # 🌃 BREATHE NEW YORK 🗽
 
+<a href="https://prezi.com/p/edit/gaz17qhtow5h/" style="color:#5CE1E6;" target="_blank">Breathe NYC Presentation</a>
+
+---
+
 ## Goal: 
 Our main objective was to identify the most polluted areas in Greater New York by analyzing four different datasets:
 
@@ -35,5 +39,3 @@ Business Idea: Assess whether homes are reasonably priced based on air quality a
   - Analyze the correlations between social dynamics and environmental conditions, creating a zoom-in map with a health score specific to neighbourhoods
 
 ---
-  
-Link to the presentation
