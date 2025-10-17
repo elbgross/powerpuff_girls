@@ -3,17 +3,15 @@
 ## Goal: 
 Our main objective was to identify the most polluted areas in Greater New York by analyzing four different datasets:
 
-1. **OpenAQ dataset** — real-time data on fluctuating levels of multiple air pollutants and toxins detected by a network of sensors located throughout the city  
+1. **OpenAQ dataset**: real-time data on fluctuating levels of multiple air pollutants and toxins detected by a network of sensors located throughout the city  
 2. **Green areas and tree distribution**  
 3. **Noise complaints**  
 4. **Traffic volume**
 
----
 
 ## Business Idea:  
 Business Idea: Assess whether homes are reasonably priced based on air quality and public health conditions, and identify overlooked investment opportunities across different boroughs.
 
----
 
 ## Process:
 
@@ -26,7 +24,6 @@ Business Idea: Assess whether homes are reasonably priced based on air quality a
 1. Calculated the average annual pollutant concentration for each borough, along with the number of trees, traffic volume, and noise complaint counts.  
 2. Created a health score for each borough by combining metrics from all datasets.
 
----
 
 ## 💡 Insights and Potential Initiatives  
 
@@ -34,6 +31,5 @@ Business Idea: Assess whether homes are reasonably priced based on air quality a
 - **Practical Applications:**  
   - Study historical price trends and environmental evolution, and build a predictive model that estimates future property prices considering environmental factors
   - Analyze the correlations between social dynamics and environmental conditions, creating a zoom-in map with a health score specific to neighbourhoods
----
 
-      
+  
