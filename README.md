@@ -12,6 +12,8 @@ Our main objective was to identify the most polluted areas in Greater New York b
 ## Business Idea:  
 Business Idea: Assess whether homes are reasonably priced based on air quality and public health conditions, and identify overlooked investment opportunities across different boroughs.
 
+---
+
 
 ## Process:
 
@@ -32,4 +34,6 @@ Business Idea: Assess whether homes are reasonably priced based on air quality a
   - Study historical price trends and environmental evolution, and build a predictive model that estimates future property prices considering environmental factors
   - Analyze the correlations between social dynamics and environmental conditions, creating a zoom-in map with a health score specific to neighbourhoods
 
+---
   
+Link to the presentation
