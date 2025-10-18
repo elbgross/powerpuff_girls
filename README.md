@@ -33,8 +33,8 @@ Business Idea: Assess whether homes are reasonably priced based on air quality a
 ### 📦 Data Files (.rar Extraction)
 
 Some datasets are included in compressed .rar format due to size and hosting limits.
-1. Extract the files
-2. Make sure the extracted files are placed into the project folder
+1. Extract manually the files using your preferred software
+2. Make sure the extracted files are placed into the project folder (same place where your notebook is saved)
 
 ### 🌳 Merge all datasets by borough and analyze correlations
 1. Calculated the average annual pollutant concentration for each borough, along with the number of trees, traffic volume, and noise complaint counts.  
