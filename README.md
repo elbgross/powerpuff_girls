@@ -4,7 +4,7 @@
 
 ---
 
-##📌 **Project Overview**:
+## 📌Project Overview:
 
 Breathe New York is a data analytics project aimed at identifying and ranking the environmental quality of NYC boroughs based on air pollution, noise exposure, traffic congestion, and green coverage. Our goal is to connect environmental health with real estate value to support more informed investment decisions.
 
