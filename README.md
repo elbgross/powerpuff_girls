@@ -4,6 +4,10 @@
 
 ---
 
+##📌 **Project Overview**:
+
+Breathe New York is a data analytics project aimed at identifying and ranking the environmental quality of NYC boroughs based on air pollution, noise exposure, traffic congestion, and green coverage. Our goal is to connect environmental health with real estate value to support more informed investment decisions.
+
 ## Goal: 
 Our main objective was to identify the most polluted areas in Greater New York by analyzing four different datasets:
 
@@ -25,6 +29,12 @@ Business Idea: Assess whether homes are reasonably priced based on air quality a
 1. Identified pollutants and toxins to consider, based on data availability and time range.  
 2. Checked the availability of data per sensor location between 2016 and 2025, ensuring recent readings across most locations.  
 3. Extracted one pollutant (parameter) at a time, focusing on PM2.5, PM10, and PM1, which showed the most consistent data across boroughs.
+
+### 📦 Data Files (.rar Extraction)
+
+Some datasets are included in compressed .rar format due to size and hosting limits.
+1. Extract the files
+2. Make sure the extracted files are placed into the project folder
 
 ### 🌳 Merge all datasets by borough and analyze correlations
 1. Calculated the average annual pollutant concentration for each borough, along with the number of trees, traffic volume, and noise complaint counts.  
