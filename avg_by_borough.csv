@@ -1,6 +1,6 @@
-borough,pm1,pm10,pm25
-Bronx,,12.78,6.46
-Brooklyn,7.07,14.88,10.32
+borough,pm1,pm10,pm2.5
+Bronx,7.0,12.78,6.46
+Brooklyn,6.8,14.88,10.08
 Manhattan,8.98,9.62,10.15
-Queens,4.96,8.67,8.7
-Staten Island,,,5.9
+Queens,4.96,8.67,8.5
+Staten Island,7.0,11.49,5.9
